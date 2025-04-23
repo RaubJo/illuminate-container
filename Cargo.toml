@@ -7,7 +7,7 @@ description = "Illuminate Container"
 license = "MIT"
 
 [dependencies]
-illuminate-contracts = { path = "../Contracts"} 
+illuminate-contracts = { path = "../Contracts", version = "0.1.0"} 
 
 [lints.rust]
 dead_code = "allow"
