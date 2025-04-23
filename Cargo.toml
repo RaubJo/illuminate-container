@@ -2,8 +2,9 @@
 name = "illuminate-container"
 version = "0.1.0"
 edition = "2024"
-authors = ["joseph@raubstudios.com"]
+authors = ["Joseph Raub <joseph@raubstudios.com>"]
 description = "Illuminate Container"
+repository = "https://github.com/RaubJo/illuminate-container"
 license = "MIT"
 
 [dependencies]
